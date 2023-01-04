@@ -11,12 +11,12 @@ Finally modify it to become an app idea that could be created with react js and 
 --- 
 # Apps
 
-## "Time Capsule"
+## "Time Capsule" ⏱️
 
 A reactjs app that allows users to create and share "time capsules" of photos, videos, and other media from specific moments in their lives. Users could choose to set the capsules to be unlocked and viewable at a specific time in the future, or they could allow others to access the capsules immediately. The app could also include features like automatic notifications when a capsule is about to be unlocked, the ability to add notes or messages to capsules, and the option to keep capsules private or make them viewable to certain people or groups. This app could be sold on a subscription basis or through in-app purchases.
 
 
-## "Telepath Connect"
+## "Telepath Connect" 
 
 A reactjs app that allows users to communicate telepathically with one another using their phones or other devices. The app could use a combination of brainwave scanning technology and machine learning algorithms to translate users' thoughts into text or audio messages that can be transmitted to other users. This app could be especially useful for people with disabilities that prevent them from speaking or writing easily, as well as for people who want a more efficient and private way to communicate. The app could be sold on a subscription basis or through in-app purchases.
 
